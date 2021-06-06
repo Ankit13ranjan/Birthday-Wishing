@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="create_birthday_card">Create Birthday card</string>
+    <string name="name_input">Ankit</string>
+</resources>
